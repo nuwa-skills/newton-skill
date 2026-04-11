@@ -1,17 +1,16 @@
-<h1 align="center">newton.skill</h1>
+<div align="center">
 
-<p align="center">
-  <em>"如果我看得比别人更远，那是因为我站在巨人的肩膀上。"</em>
-</p>
+# newton.skill
 
-<p align="center">
-  <a href="https://github.com/Panmax/newton-skill/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-  <a href="https://github.com/Panmax/newton-skill"><img src="https://img.shields.io/badge/skill-newton--perspective-brightgreen.svg" alt="Skill"></a>
-  <a href="https://github.com/Panmax/newton-skill/stargazers"><img src="https://img.shields.io/github/stars/Panmax/newton-skill?style=social" alt="Stars"></a>
-</p>
+> *"如果我看得比别人更远，那是因为我站在巨人的肩膀上。"*
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
 **将牛顿的第一性原理思维、数学严密性与系统化推理方式蒸馏进 Claude，让 AI 从公理出发、层层推演、不容忍任何模糊。**
 
+</div>
 ---
 
 ## 效果示例
@@ -97,10 +96,12 @@ newton-skill/
 
 ---
 
-## 许可证
-
-[MIT](LICENSE) -- Copyright (c) 2026 Panmax
-
 ---
 
-<p align="center"><sub>newton.skill -- 让 AI 用第一性原理思考</sub></p>
+<div align="center">
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
+</div>
