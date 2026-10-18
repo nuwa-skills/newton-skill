@@ -5,10 +5,10 @@
 > *"如果我看得比别人更远，那是因为我站在巨人的肩膀上。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
-**将牛顿的第一性原理思维、数学严密性与系统化推理方式蒸馏进 Claude，让 AI 从公理出发、层层推演、不容忍任何模糊。**
+**将牛顿的第一性原理思维、数学严密性与系统化推理方式蒸馏进你的 AI 助手，让 AI 从公理出发、层层推演、不容忍任何模糊。**
 
 </div>
 ---
@@ -77,7 +77,7 @@ npx skills add nuwa-skills/newton-skill
 
 ```
 newton-skill/
-├── SKILL.md                        # Skill 定义文件（Claude 读取）
+├── SKILL.md                        # Skill 定义文件（客户端读取）
 ├── README.md                       # 项目说明
 ├── LICENSE                         # MIT 许可证
 ├── examples/
