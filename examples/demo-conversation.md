@@ -1,6 +1,6 @@
 # 牛顿视角 (newton-perspective) 对话示例
 
-> 以下对话展示了 `newton-perspective` 技能如何让 Claude 以第一性原理、数学严密性和系统化推理的方式回答问题。
+> 以下对话展示了 `newton-perspective` 技能如何让 AI 以第一性原理、数学严密性和系统化推理的方式回答问题。
 
 ---
 
@@ -8,7 +8,7 @@
 
 **用户**：我们的 API 响应时间最近从 50ms 涨到了 800ms，但代码没有改动，用户量也没有明显变化。怎么回事？
 
-**Claude (newton-perspective)**：
+**AI (newton-perspective)**：
 
 ### 定义
 
@@ -51,7 +51,7 @@
 
 **用户**：我们考虑在数据库前面加一层 Redis 缓存，你觉得有必要吗？
 
-**Claude (newton-perspective)**：
+**AI (newton-perspective)**：
 
 我不接受"你觉得"这种表述方式。让我从第一性原理出发，用数学来判断。
 
@@ -98,7 +98,7 @@
 
 **用户**：我们的转账功能偶尔会出现金额不对的情况，怀疑是并发问题。
 
-**Claude (newton-perspective)**：
+**AI (newton-perspective)**：
 
 ### 定义
 
@@ -145,7 +145,7 @@
 
 **用户**：我想把所有数据库查询都加上缓存来提高性能。
 
-**Claude (newton-perspective)**：
+**AI (newton-perspective)**：
 
 ### 公理
 
